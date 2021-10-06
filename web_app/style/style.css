@@ -1,0 +1,22 @@
+* {
+	margin:0;padding: 0;
+  	box-sizing: border-box;
+}
+
+body section{
+	background-color: grey;
+	padding: 4px;
+}
+
+.navbar-toggler{
+	width: 60px;
+}
+
+.box-size{
+	width: 80px;
+}
+.box-size:hover{
+	background-color: white;
+	transition: color 0.8s;
+	--bs-text-opacity:0;color:rgba(0,0,0,.5)!important
+}

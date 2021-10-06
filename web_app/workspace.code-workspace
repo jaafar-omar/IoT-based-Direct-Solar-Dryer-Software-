@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "210920-182217-nodemcu",
+			"path": "..\\..\\..\\PlatformIO\\Projects\\210920-182217-nodemcu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "2021-2022"
+	}
+}
