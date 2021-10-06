@@ -36,8 +36,6 @@
                   required
                 />
               </div>
-              
-          
               <div class="form-group">
                 <label for="email"></label>
                 <input
@@ -90,7 +88,6 @@
               <a class="small" href="login.html">Already have an account? Login!</a>
           </div>
             <hr>
-          </div>
           <div class="panel-footer text-right">
             <small>IOT-BASED DIRECT SOLAR DRYER</small>
           </div>
